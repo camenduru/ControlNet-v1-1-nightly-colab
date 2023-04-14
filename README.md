@@ -3,7 +3,7 @@
 
 ## 🚦 WIP 🚦
 
-## 🦒 Colab
+### 🦒 Colab
 
 | Colab | Info
 | --- | --- |
@@ -25,10 +25,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-tile.ipynb) | tile
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly.ipynb) | all in one
 
-## Main Repo
+### ❤ Main Repo
 https://github.com/lllyasviel/ControlNet-v1-1-nightly
 
-## Outputs 🤯
+### 🤯 Outputs
 model: https://civitai.com/models/16014/anime-lineart-manga-like-style <br />
 | lineart-anime | lineart-anime | lineart-anime
 | --- | --- | --- |
