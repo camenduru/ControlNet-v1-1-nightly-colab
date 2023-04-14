@@ -27,3 +27,6 @@
 
 ## Main Repo
 https://github.com/lllyasviel/ControlNet-v1-1-nightly
+
+## lineart-anime output 🤯
+![ezgif-5-5b61f88fba](https://user-images.githubusercontent.com/54370274/231949065-abb41a35-8732-45a8-987d-d4011f1c4dcf.gif)
