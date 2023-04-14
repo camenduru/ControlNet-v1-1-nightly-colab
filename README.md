@@ -28,6 +28,8 @@
 ## Main Repo
 https://github.com/lllyasviel/ControlNet-v1-1-nightly
 
-## lineart-anime output 🤯
+## Outputs 🤯
 model: https://civitai.com/models/16014/anime-lineart-manga-like-style <br />
-![ezgif-5-5b61f88fba](https://user-images.githubusercontent.com/54370274/231949065-abb41a35-8732-45a8-987d-d4011f1c4dcf.gif)
+| lineart-anime | lineart-anime | lineart-anime
+| --- | --- | --- |
+![lineart-anime](https://user-images.githubusercontent.com/54370274/231949065-abb41a35-8732-45a8-987d-d4011f1c4dcf.gif) | ![lineart-anime](https://user-images.githubusercontent.com/54370274/231953263-1590d9b9-1729-451f-b924-52817ad265ca.gif) | ![lineart-anime](https://user-images.githubusercontent.com/54370274/231953269-26b1439e-18c5-4dd6-b24f-a9280650a9bc.gif)
