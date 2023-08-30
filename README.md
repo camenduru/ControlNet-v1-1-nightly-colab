@@ -18,6 +18,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-mlsd.ipynb) | mlsd
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-normalbae.ipynb) | normalbae
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-openpose.ipynb) | openpose
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-dw-openpose.ipynb) | dw-openpose
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-scribble-interactive.ipynb) | scribble-interactive
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-scribble.ipynb) | scribble
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ControlNet-v1-1-nightly-colab/blob/main/ControlNet-v1-1-nightly-seg.ipynb) | seg
